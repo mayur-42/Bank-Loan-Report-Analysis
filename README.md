@@ -65,6 +65,7 @@ The primary objective of the **Details Dashboard** is to serve as a **one-stop s
 ---
 
 ## 📂 Dataset
+**Source**: [Bank-Loan-Report](https://github.com/mayur-42/Bank-Loan-Report-Analysis/blob/main/financial_loan.csv) 
 - The dataset includes information on loan applicants, such as loan status, income, credit history, and repayment records.
 - Data is cleaned and transformed for accurate analysis.
 
