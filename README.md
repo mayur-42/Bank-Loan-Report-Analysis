@@ -5,6 +5,10 @@ To evaluate the performance of our lending activities and assess the quality of 
 
 ---
 
+![Dashboard](https://github.com/user-attachments/assets/545f889c-d981-40c5-aa20-14861a0ee3eb)
+
+
+---
 ## Dashboards
 
 ### 📈 Dashboard 1: Summary
